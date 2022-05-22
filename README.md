@@ -12,11 +12,3 @@
 - 😈 Challenges are my game.
 
 
-### Connect with me:
-
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/khawlajayuosi/i#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/khawlajayuosi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
